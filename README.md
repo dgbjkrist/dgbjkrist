@@ -4,6 +4,6 @@
 
 ## Présentation
 
-Fort de quelques expériences, j'ai acquis de solides compétences en developpement web en PHP (Symfony | Laravel). Toujours en quête de nouveaux apprentissages et de défis, je monte en compétence sur les technologies Javascript notemment Reactjs, Nodejs.
+Fort de 4 années d'expériences, j'ai acquis de solides compétences en developpement web et mobile.
 
-Aujourd'hui, pour chaque projet, je mets un point d'honneur à respecter des bonnes pratiques de code, le clean code, l'approche CI/CD (Intégration Continue et Déploiement Continu).
+Aujourd'hui, pour chaque projet, je mets un point d'honneur à respecter des bonnes pratiques de code, test fonctionnelle et/ou unitaire, clean code, l'approche CI/CD (Intégration Continue et Déploiement Continu).

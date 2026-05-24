@@ -1,10 +1,10 @@
-# DJEGBA Jean Christian - 27 ans
+# DJEGBA Jean Christian - 31 ans
 
 ## Développeur WEB & MOBILE
 
 ### 🚀 À propos de moi
 
-Fort de 4 années d'expériences, j'ai acquis de solides compétences en developpement web et mobile.
+Fort de 5 années d'expériences, j'ai acquis de solides compétences en developpement web et mobile.
 
 Aujourd'hui, pour chaque projet, je mets un point d'honneur à respecter des bonnes pratiques de code, test fonctionnelle et/ou unitaire, clean code, l'approche CI/CD (Intégration Continue et Déploiement Continu).
 

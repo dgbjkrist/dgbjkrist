@@ -1,4 +1,4 @@
-# DJEGBA Jean Christian - 31 ans
+# DJEGBA Jean Kristian - 31 ans
 
 ## Développeur WEB & MOBILE
 
